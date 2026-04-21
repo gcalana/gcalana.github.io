@@ -23,7 +23,7 @@ repository               : "gcalana/gcalana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "GabrielaCalanaHeadshot.jpeg"
   name             : "Gaby"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at stanford"
